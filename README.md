@@ -1,6 +1,6 @@
 # Good Karma - About Page
 
-An excerpt from the Good Karma band website, built as part of a team project through [Scout NU](https://scout.nu). This repo contains the About page, which I designed and developed from scratch.
+An excerpt from the Good Karma band website, built as part of a team project through Northeastern's [Scout](https://scout.camd.northeastern.edu/). This repo contains the About page, which I designed and developed from scratch.
 
 ## Demo
 
